@@ -11,9 +11,9 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 The renowned WordPress starter theme framework that combines Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
 
-Website: [https://digitalclusteruri.com](https://digitalclusteruri.com)
+Website: https://digital-cluster-uri.ch/
 
-Child Theme Project: [https://github.com/digitalclusteruri/digitalclusteruri-child](https://github.com/digitalclusteruri/digitalclusteruri-child)
+Child Theme Project: https://github.com/patrikhorat/digitalclusteruri-child
 
 == Installation ==
 
